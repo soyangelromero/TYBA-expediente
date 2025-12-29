@@ -1,6 +1,6 @@
 # TYBA Expediente Downloader
 
-Esta herramienta automatiza la descarga de expedientes judiciales desde la plataforma **TYBA (Rama Judicial de Colombia)**. Permite obtener de forma masiva y organizada todos los documentos de las pestañas "Archivos" y "Actuaciones".
+Esta herramienta automatiza la descarga de expedientes judiciales desde la plataforma **TYBA (Rama Judicial de Colombia)**. Permite obtener de forma masiva y organizada todos los documentos de las pestañas "Archivos" y "Actuaciones" de cualquier proceso registrado en tal plataforma.
 
 ## Características Principales
 
@@ -51,3 +51,4 @@ Este proyecto se distribuye bajo la licencia **GNU General Public License v3.0**
 - **Uso Comercial**: Si una entidad quiere usar el programa o una parte del programa para uso comercial y quiere obtener una licencia, favor contactarse directamente conmigo a **<iangelromero@pm.me>**.
 
 Para consultas sobre licencias comerciales o personalizaciones, por favor contactar al desarrollador.
+
