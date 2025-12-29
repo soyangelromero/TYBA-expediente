@@ -50,5 +50,4 @@ Este proyecto se distribuye bajo la licencia **GNU General Public License v3.0**
 - **Uso Estudiantil y Personal**: Totalmente gratuito bajo los términos de la GPLv3.
 - **Uso Comercial**: Si una entidad quiere usar el programa o una parte del programa para uso comercial y quiere obtener una licencia, favor contactarse directamente conmigo a **<iangelromero@pm.me>**.
 
-Para consultas sobre licencias comerciales o personalizaciones, por favor contactar al desarrollador.
 
